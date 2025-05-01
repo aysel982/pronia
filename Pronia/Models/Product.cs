@@ -9,6 +9,6 @@
         public string SKU { get; set; }
         public Category Category { get; set; }
         public int CategoryId { get; set; }
-        public List<ProductImage> ProductImage { get; set; }
+        public List<ProductImage> ProductImages { get; set; }
     }
 }

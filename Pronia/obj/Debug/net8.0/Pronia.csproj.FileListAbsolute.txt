@@ -143,3 +143,4 @@ C:\Users\AYSEL\OneDrive\Masaüstü\Pronia\Pronia\bin\Debug\net8.0\runtimes\win\l
 C:\Users\AYSEL\OneDrive\Masaüstü\Pronia\Pronia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\AYSEL\OneDrive\Masaüstü\Pronia\Pronia\obj\Debug\net8.0\Pronia.csproj.AssemblyReference.cache
 C:\Users\AYSEL\OneDrive\Masaüstü\Pronia\Pronia\obj\Debug\net8.0\Pronia.csproj.Up2Date
+C:\Users\AYSEL\OneDrive\Masaüstü\Pronia\Pronia\obj\Debug\net8.0\Pronia.sourcelink.json
